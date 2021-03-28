@@ -25,7 +25,7 @@ person['name'] = 'Dustin'
 let selectedColors = ['this is an array', 'red', 'blue'];
 selectedColors[2] = 'green';
 
-// adding a functions
+// adding a function
 function greet() {
     console.log('Hello, ' + name + '. This is a function');
 }
