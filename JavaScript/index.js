@@ -21,3 +21,5 @@ const interestRate = 0.3;
 // Can only reassign a vauable when 'let' is used
 // interestRate = 1;
 console.log(interestRate);
+
+// testing git lmao
