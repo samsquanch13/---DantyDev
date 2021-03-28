@@ -3,7 +3,7 @@ console.log('hello world');
 
 //this is a variable
 let name = 'Danty'; // string literal
-let age = '22'; // number literal
+let age = 22; // number literal
 let isApproved = true; // boolean literal
 let firstName = "Danty"; // when not used a variable is undefined
 let lastName = null; // used when you want to expliciitly clear the value of a variable
