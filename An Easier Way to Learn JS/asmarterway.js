@@ -2,9 +2,11 @@
 
 alert("yo, this is an alert!")
 
+// string literal variable
 var name = "Samsquanch";
 console.log(name);
 
+// redeclaring the variable
 var name = "Danty";
 console.log(name);
 
