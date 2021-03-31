@@ -26,3 +26,6 @@ var sum3 = sum1 + sum2;
 
 var sum3 = sum3 + 10;
 
+//chapter 4 variable names
+var camelCase$_;
+var $_ = 'isLegalVariable';
